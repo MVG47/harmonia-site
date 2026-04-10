@@ -164,6 +164,6 @@ See [[Phase-1-Foundation]] for full milestone detail.
 
 This vault is shared with colleagues for input during Phase 1. To comment on specific documents, suggest changes, or raise questions:
 
-→ **[Open a discussion on GitHub](https://github.com/YOUR-GITHUB-USERNAME/harmonia-site/discussions)**
+→ **[Open a discussion on GitHub](https://github.com/mvg47/harmonia-site/discussions)**
 
 Use the **Feedback** category for general observations, or start a thread named after the specific document you're commenting on (e.g. "Feedback: Governance Framework").

@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "YOUR-GITHUB-USERNAME.github.io/harmonia-site",
+    baseUrl: "mvg47.github.io/harmonia-site",
     ignorePatterns: [
       "private",
       "templates",
